@@ -1,0 +1,12 @@
+# Compiled program files
+*.exe
+*.out
+tracker
+
+# Object files
+*.o
+
+# Editor / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
